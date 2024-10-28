@@ -39,7 +39,7 @@ Using linear regression , the analysis identified the top attributes influencing
 Monthly analysis of review counts and scores reveals potential seasonal trends, such as higher review volumes in months on Oct, Nov and Dec. (in 2019)
 
 4.⁠ ⁠Best Value for Travelers:
-A value score was created to balance price and ratings, showing that budget-friendly cities with high ratings, such as *Istanbul*, offer the best value.
+A value score was created to balance price and ratings, showing that budget-friendly cities with high ratings, such as **Istanbul**, offer the best value.
 
 **Future Enhancements**
 •⁠  ⁠Extend Analysis: Incorporate additional cities and compare across different regions.
